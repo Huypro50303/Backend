@@ -1,4 +1,4 @@
-Tên dự án: CampMate - Smart Camping eCommerce & Navigation
+Tên dự án: CampGo - Camping Gear & Location Tracking System
 1. Mô tả dự án
 CampMate là một ứng dụng eCommerce thông minh dành cho dân đam mê cắm trại, kết hợp giữa mua sắm đồ dùng cắm trại và bản đồ định vị thông minh. Ứng dụng cho phép người dùng dễ dàng mua sắm các sản phẩm cần thiết, khám phá địa điểm cắm trại, tìm lộ trình phù hợp, đồng thời giúp nhóm cắm trại theo dõi vị trí của nhau trong thời gian thực.
 
